@@ -8,4 +8,3 @@ You can reach out to me through the following platforms:
 - LinkedIn: [Ali Gomaa](https://www.linkedin.com/in/aligomaa15/)
 - Twitter: [@aliigomaa_](https://x.com/aliigomaa_)
 - Gmail: [alielsayedgomaa@gmail.com](mailto:alielsayedgomaa@gmail.com)
-- 
