@@ -1,11 +1,10 @@
-# LeetCode
+# LeetCode Solutions Repository
 
-This repository contains my solutions to LeetCode problems.
+Welcome to my LeetCode solutions repository! Here you'll find my solutions to various LeetCode problems, organized by problem number.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+## Contact with me
+You can reach out to me through the following platforms:
 
- ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
-
- Happy coding! 🚀
+- LinkedIn: [Ali Gomaa](https://www.linkedin.com/in/aligomaa15/)
+- Twitter: [@aliigomaa_](https://x.com/aliigomaa_)
+- Gmail: [alielsayedgomaa@gmail.com](mailto:alielsayedgomaa@gmail.com)
