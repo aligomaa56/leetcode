@@ -6,6 +6,8 @@ class Solution(object):
         \\\
         lft = 0; rit = len(s)-1
         while lft < rit:
-            s[lft], s[rit] = s[rit], s[lft]
+            tmp = s[lft]
+            s[lft] = s[rit]
+            s[rit] = tmp
             lft += 1
             rit -= 1
